@@ -22,3 +22,5 @@ class Products(models.Model):
 
     def __str__(self):
         return f'Product - {self.product_name}'
+    
+    #ainsag
